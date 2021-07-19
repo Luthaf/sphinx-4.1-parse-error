@@ -1,0 +1,7 @@
+DOXYFILE_ENCODING      = UTF-8
+PROJECT_NAME           = "code"
+INPUT                  = code.hpp
+QUIET                  = YES
+GENERATE_XML           = YES
+GENERATE_HTML          = NO
+GENERATE_LATEX         = NO
